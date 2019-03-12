@@ -1,0 +1,18 @@
+{
+  "name": "spiderdemo",
+  "version": "1.0.0",
+  "description": "爬虫案例",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Leo",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^2.6.2",
+    "cheerio": "^1.0.0-rc.2",
+    "fs": "0.0.1-security",
+    "request": "^2.88.0",
+    "superagent": "^4.1.0"
+  }
+}
